@@ -11,4 +11,4 @@
 ## 규칙
 
 - 본문은 한글, 코드와 용어는 영어로 씁니다.
-- 파일명은 **무엇을 공부했는지** 중심으로 짓습니다. (예: `2026-11-24-kotlin-extension-functions.md`)
+- 파일명은 **무엇을 공부했는지** 중심으로 짓습니다. (예: `android/kotlin/2026-11-24-extension-functions.md`)
